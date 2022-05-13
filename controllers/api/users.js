@@ -28,7 +28,7 @@ async function login(req, res) {
 
 
 
-console.log('test 3000010')
+//console.log('test 3000010')
 async function create(req, res) {
   try {
     const user = await User.create(req.body);
