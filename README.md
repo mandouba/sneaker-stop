@@ -4,7 +4,7 @@ Sneaker Stop is an application where you can search and keep track of your sneak
 
  Deployment Link 
 ------------------------------------------------------------------------------------------------------
-https://mongoose-bnbsc.herokuapp.com
+https://the-sneaker-stop.herokuapp.com
 https://trello.com/b/Uv4PKjIJ/sneakerstop
 
 Instructions
