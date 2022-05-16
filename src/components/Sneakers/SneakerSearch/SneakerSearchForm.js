@@ -1,6 +1,8 @@
 import React, {useState} from "react";
+import SneakersCard from '../../SneakersCard/SneakersCard'
 
-export default function SneakerSearchForm({setSneakers}) {
+
+export default function SneakerSearchForm({ setSneakers, sneakers}) {
 
     const [shoeName, setShoeName ] = useState('')
 
@@ -18,7 +20,6 @@ export default function SneakerSearchForm({setSneakers}) {
       function handleChange(evt){
           setShoeName(evt.target.value)
       }
-    
     return (
     <>
 		<form onSubmit={handleSubmit}>
@@ -36,7 +37,8 @@ export default function SneakerSearchForm({setSneakers}) {
 			Search
 			</button>
 		</form>
-        <h2>Bunch of logos from Sneaker market places & sneakers Here</h2>
+        <SneakersCard sneakers={sneakers} />
+    <img classId='footer'  src='https://i.imgur.com/r3cy65z.png'></img>
         </>
 	);
 }

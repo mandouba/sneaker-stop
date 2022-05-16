@@ -1,0 +1,26 @@
+.details-container {
+    border: 10px solid black;
+    box-shadow: 0 0px 0px 0px rgba(0,0,0,0.459);
+    border-radius: 10px;
+    height: 110vh;
+    width: 30%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 1vw auto; 
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
+.card-img {
+    margin: 1vh 1vh 1vh 1vh;
+    
+}
+
+.details {
+    height: 50%;
+    font-size: .75vw;
+    margin: auto;
+    width: 90%;
+}
