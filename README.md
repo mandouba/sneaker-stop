@@ -27,6 +27,10 @@ Technologies Used
 - JavaScript
 - React.JS
 - StockX-API
+- Node.js
+- Express.js
+- MongoDb
+- 
 
 Screenshots
 -----------------------------------------------------------------------------------------------------
