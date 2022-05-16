@@ -30,17 +30,16 @@ Technologies Used
 
 Screenshots
 -----------------------------------------------------------------------------------------------------
-<img src="https://i.imgur.com/iegdaLm.png">  
-<img src="https://i.imgur.com/GN6Dp24.png">
-<img src="https://i.imgur.com/sNBcB8T.png">
-<img src="https://i.imgur.com/WqsQqkU.png">  
-<img src="https://i.imgur.com/k14E8Xh.png"> 
-<img src="https://i.imgur.com/XWruKzv.png"> 
+<img src="https://i.imgur.com/HM7XJ99.png">  
+<img src="https://i.imgur.com/y3Xl1Uw.png"> 
+<img src="https://i.imgur.com/EbIr9F4.png"> 
 
 
 
 
 Future enhancements
 -----------------------------------------------------------------------------------------------------
-Add a save button to save post, Add a like and dislike button that works properly and create a
-delete and edit comment button. Also add a profile image. 
+ - Need to implement the Watch List 
+ - Need to add the Portfolio Value 
+ - Sneaker News API 
+ - Carousel News on Home page
